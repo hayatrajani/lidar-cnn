@@ -21,3 +21,4 @@ this task.
 Goeddel, Robert, and Edwin Olson. "Learning semantic place labels from occupancy grids using CNNs." 2016 IEEE/RSJ international conference on intelligent robots and systems (IROS). IEEE, 2016.
 
 #### Dataset available [here](https://drive.google.com/file/d/10HSB_T7uZyCZPvvygKilUYRwmgy6Z_Kc/view?usp=sharing)
+The dataset consists of about 75,000 images which were generated from 2D range scans captured in different environments. The range scans were obtained from the [datasets](http://www2.informatik.uni-freiburg.de/~omartine/place_data_sets.html) hosted by Oscar Martinez Mozos.
